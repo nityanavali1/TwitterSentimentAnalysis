@@ -1,0 +1,1 @@
+Designed and developed SAAS model for analyzing the sentiments of tweets in real time for an entity using event driven serverless computing. The model was implemented and deployed in AWS and Google platforms
